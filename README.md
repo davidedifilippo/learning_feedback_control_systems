@@ -8,7 +8,7 @@ Siimporta la libreria per la gestione dei vettori di numeri:
 
         import numpy as np
         
-Si importa lalibreria di gestione dei grafici:
+Si importa la libreria di gestione dei grafici:
 
         import matplotlib.pyplot as plt
 
