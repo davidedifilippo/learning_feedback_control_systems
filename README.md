@@ -44,7 +44,7 @@ Si importa la libreria di gestione dei grafici:
 ## Calcolo F(s) = G1(s)*G2(s) ossia la FDT del ramo diretto:
 
     F = control.series(G1, G2)
-     H = 4
+    H = 4
 
 ## Calcolo la FDT del sistema ingresso-uscita retroazionato:
 
